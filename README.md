@@ -1,3 +1,3 @@
 # Portfolio Website
 
-Link: https://github.com/NarsipuraAbhinav/git-portfolio
+Link: https://github.com/NarsipuraAbhinav/git-portfolio.io
